@@ -1,7 +1,7 @@
 {
     "name": "poc-package",
     "type": "library",
-    "version": "0.5.0-devx",
+    "version": "0.5.1",
     "authors": [
         {
           "name":   "Imre Toth",
